@@ -25,7 +25,7 @@ This registration form requires a modern web browser that supports HTML5 and CSS
 
 ### Licence
 
-This project is licenced under the MIT LicenCe. See the LICENCE file for more information.
+This project is licenced under the MIT Licence. See the LICENCE file for more information.
 
 ### Acknowledgments
 
