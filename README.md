@@ -4,10 +4,10 @@ This is a simple registration form built using HTML and CSS. It allows users to 
 
 ## Features
 
-('*') Responsive design
-('*') Input validation using HTML5 and CSS3
-('*') File upload
-('*') Submit button disabled until all required fields are filled out correctly
+* Responsive design
+* Input validation using HTML5 and CSS3
+* File upload
+* Submit button disabled until all required fields are filled out correctly
 
 ## How to use
 
@@ -19,9 +19,9 @@ This is a simple registration form built using HTML and CSS. It allows users to 
 
 This registration form requires a modern web browser that supports HTML5 and CSS3. It has been tested on the following browsers:
 
-('*') Google Chrome
-('*') Mozilla Firefox
-('*') Apple Safari
+* Google Chrome
+* Mozilla Firefox
+* Apple Safari
 
 ### License
 
